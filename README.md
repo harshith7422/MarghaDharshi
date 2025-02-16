@@ -40,6 +40,8 @@ MarghaDharshi is an AI-powered decision-support system designed to help farmers 
 2. **Select Crop Parameters**: Choose the current month, region, and last harvested crop.
 3. **Get Recommendations**: The system predicts the best crop for optimal yield.
 
+<img width="1430" alt="image" src="https://github.com/user-attachments/assets/cfce3063-75c7-4d8e-be36-d8ad13c35a72" />
+
 ## 📊 Dataset Details
 
 The crop rotation dataset contains:
